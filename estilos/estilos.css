@@ -1,0 +1,128 @@
+.ancho{
+	width:960px;
+	/*border:10pxsolid #000;*/
+	margin-right:auto;
+	margin-left:auto;
+	}
+
+
+body {
+	background-image: url("https://i1.wp.com/www.soysamp.com/wp-content/uploads/2018/06/5169653-wallpaper-para-pc.jpg?fit=1366%2C768&ssl=1");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+		color: #ffffff;
+}
+
+footer{
+	padding:20px 0px;
+	border-radius:0px 0px 50px 50px;
+	background:#000;
+	text-align:center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size:18px;
+	color:#ffffff;	
+	clear:both;
+
+}
+.articulos, .publi{
+		background:#EDFCEF		
+}
+
+
+.articulos {
+	width:69.5%;
+	float:left;
+	margin-right:0.5%;
+
+}
+
+.publi {
+	width:30%;
+	float:left;
+	margin-left:0.5%:
+}
+
+.publi img{
+	width:100%;
+}
+
+.textos{
+	
+	margin:10px;
+	padding:10px;
+	background:#EAB5E7;
+	
+}
+
+
+
+.menu a {
+    display: block;
+    padding: 8px;
+    background-color: #333;
+	transition:all .5s ease-in-out;
+}
+.menu ul {
+    background-color: #76FF03;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (green) on hover */
+
+.menu li a:hover {
+    background-color: #111;
+}
+
+
+.menu a:hover{
+	color:#BAA3C7;
+}
+
+
+
+.active {
+    background-color: #ffffff;
+}
+
+.banner{
+	text-align: center;
+}
+
+.pol {
+	height:631.5px;
+	width: 931.5px;	
+}
+
+
+
+.tipos img{
+	width:10%;
+	float:left;
+}
+
+.facebook:hover {filter: opacity(.5);}
+.youtube:hover {filter: opacity(.5);}
+.mapas:hover {filter: opacity(.5);}
+.instagram:hover {filter: opacity(.5);}
+
+
+
